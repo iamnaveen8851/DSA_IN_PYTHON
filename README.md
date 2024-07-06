@@ -6,7 +6,7 @@ In this repo, I'll push each problems of DSA
 
 ## Arrays 
 
-- Sum of subarray
+  `Sum of subarray`
 
 ## Strings 
 
