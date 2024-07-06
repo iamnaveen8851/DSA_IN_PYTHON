@@ -4,10 +4,10 @@ In this repo, I'll push each problems of DSA
 
 # Topics :
 
-## Arrays 
+## Arrays
 
-  `Sum of subarray`
+`Sum of subarray`
 
-## Strings 
+## Strings
 
-- Prime Substring
+`Prime Substring`
